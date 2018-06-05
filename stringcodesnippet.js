@@ -10,5 +10,6 @@ s.reduce(function(a,b){
 });
 
 Note: 
-\1* is used to allow matching instances of a single letter with any or no sequential repetition. '\1+' would not match a single unrepeated letter.
+\1* is used to allow matching instances of a single letter with any or no sequential repetition. 
+\1+ would not match a single unrepeated letter.
 
